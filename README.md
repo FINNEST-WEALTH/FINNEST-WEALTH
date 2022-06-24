@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FINNEST-WEALTH
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Html,Css,Javascript,Node,React,MongoDB,Web3 and DApps.
-- 💞️ I’m looking to collaborate on Megsa and do other kinds of things of similar project.
+- 💞️ I’m looking to collaborate on Merge and do other kinds of things of similar project.
 - 📫 How to reach me ...0n @finnest_wealth{on twitter} of sulaimonfaaruq@gmail.com
 
 <!---
