@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FINNEST-WEALTH
-- 👀 I’m interested in Programing
+- 👀 I love coding 
 - 🌱 I’m currently learning Html,Css,Javascript,Node,React,MongoDB,Web3 and DApps.
 - 💞️ I’m looking to collaborate on Merge and do other kinds of things of similar project.
 - 📫 How to reach me ...0n @finnest_wealth{on twitter} or sulaimonfaaruq@gmail.com
